@@ -154,12 +154,12 @@
 
 * **EO** : [**전체가이드**](http://gall.dcinside.com/board/view/?id=kancolle&no=4518605)
 
-#### 3-1. ![1 해역](https://user-images.githubusercontent.com/20940566/30250062-931ce1ac-9683-11e7-873f-56ab68b9e1eb.png) 1 해역
+#### 3-1. ![1 해역](https://user-images.githubusercontent.com/20940566/30250062-931ce1ac-9683-11e7-873f-56ab68b9e1eb.png) - 1 해역
 - **EO** : [1-5에 대한 고찰](http://gall.dcinside.com/board/view/?id=kancolle&no=4846183)
 - **EO** : [1-5](http://gall.dcinside.com/board/view/?id=kancolle&no=4843845)
 - **EO** : [1-6](http://gall.dcinside.com/board/view/?id=kancolle&no=4882473)
 
-#### 3-2. ![2 해역](https://user-images.githubusercontent.com/20940566/30250065-932557c4-9683-11e7-82a2-2751c9c32388.png) 2 해역
+#### 3-2. ![2 해역](https://user-images.githubusercontent.com/20940566/30250065-932557c4-9683-11e7-82a2-2751c9c32388.png) - 2 해역
 * [![잠수함](https://user-images.githubusercontent.com/20940566/30250101-029a18ba-9684-11e7-9d3c-086ba3f16571.png) 오룔링 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=1276513)
 
 - **EO** : [2-5 윗길 아랫길](http://gall.dcinside.com/board/view/?id=kancolle&no=616524) **2014**
@@ -167,11 +167,70 @@
 - **EO** : [2-5 (2경모2중2구)](http://gall.dcinside.com/kancolle/3825804) **2016**
 - **EO** : [2-5 (3경모1경2구)](http://gall.dcinside.com/board/view/?id=kancolle&no=3388800) **2016**
 
-#### 3-3. ![3 해역](https://user-images.githubusercontent.com/20940566/30250067-93304580-9683-11e7-9811-d385e5f29539.png) 3 해역
+#### 3-3. ![3 해역](https://user-images.githubusercontent.com/20940566/30250067-93304580-9683-11e7-9811-d385e5f29539.png) - 3 해역
+* [3-2-1 노로테 레벨링](http://gall.dcinside.com/board/view/?id=kancolle&no=4112470) **2016**
+* [뉴비를 위한 3-2-1 레벨링 공략](http://gall.dcinside.com/board/view/?id=kancolle&no=5271679) **2017**
 
-#### 3-4. ![4 해역](https://user-images.githubusercontent.com/20940566/30250064-93245392-9683-11e7-8d19-bd9c55c9ec18.png) 4 해역
+- EO : [3-5 밑길 (1수3경2구)](http://gall.dcinside.com/board/view/?id=kancolle&no=3816775)
+- EO : [3-5 밑길 (하야스이)](http://gall.dcinside.com/board/view/?id=kancolle&no=3172708)
+- EO : [3-5 윗길 정석 (3잠3항)](http://gall.dcinside.com/board/view/?id=kancolle&no=3275980)
+- EO : [3-5 윗길 (2잠1중3항)](http://gall.dcinside.com/board/view/?id=kancolle&no=5803336)
 
-#### 3-5. ![5 해역](https://user-images.githubusercontent.com/20940566/30250063-9320ed10-9683-11e7-8c6e-a02ebf63f0df.png) 5 해역
+#### 3-4. ![4 해역](https://user-images.githubusercontent.com/20940566/30250064-93245392-9683-11e7-8d19-bd9c55c9ec18.png) - 4 해역
+- [4해역 (서방해역) 분기보정](http://gall.dcinside.com/board/view/?id=kancolle&no=7678)
 
-#### 3-6. ![6 해역](https://user-images.githubusercontent.com/20940566/30250066-932a4932-9683-11e7-81b6-a3451b065069.png) 6 해역
+* [4-3 레벨링 공략](http://gall.dcinside.com/board/view/?id=kancolle&no=404274)
+* [4-3 구축,경순 레벨링 팁](http://gall.dcinside.com/board/view/?id=kancolle&no=115125)
 
+- **EO** : [4-5 3중3항](http://gall.dcinside.com/kancolle/4661891)
+- **EO** : [4-5 4전1항1잠](http://gall.dcinside.com/board/view/?id=kancolle&no=3339006)
+
+#### 3-5. ![5 해역](https://user-images.githubusercontent.com/20940566/30250063-9320ed10-9683-11e7-8c6e-a02ebf63f0df.png) - 5 해역
+- [5해역 (남방해역) 분기보정](http://gall.dcinside.com/board/view/?id=kancolle&no=7685)
+
+* 5-1
+   - [레벨링 1](http://gall.dcinside.com/board/view/?id=kancolle&no=3388578)
+   - [레벨링 2](http://gall.dcinside.com/board/view/?id=kancolle&no=3388517)
+* 5-3
+   - [수상함대 공략](http://gall.dcinside.com/board/view/?id=kancolle&no=4521466)
+   - [머루유탕 끓이기](http://gall.dcinside.com/board/view/?id=kancolle&no=3362110)
+* 5-4
+   - [전함 MVP 5-4-1 로테이션 레벨링](http://gall.dcinside.com/board/view/?id=kancolle&no=133946)
+   - [레벨링 1](http://gall.dcinside.com/board/view/?id=kancolle&no=3381971)
+   - [레벨링 2](http://gall.dcinside.com/board/view/?id=kancolle&no=3382273)
+   - [레벨링 3](http://gall.dcinside.com/board/view/?id=kancolle&no=3386421)
+   - [레벨링 4](http://gall.dcinside.com/board/view/?id=kancolle&no=3400263)
+
+- **EO** : [5-5 공략 (윗길 2전4항)](http://gall.dcinside.com/board/view/?id=kancolle&no=3360354)
+- **EO** : [5-5 공략 (중간길 3전3잠)](http://gall.dcinside.com/board/view/?id=kancolle&no=4093828)
+- **EO** : [5-5 공략 (중간길 1항2전3잠)](http://gall.dcinside.com/board/view/?id=kancolle&no=5622908)
+- **EO** : [5-5 공략 (윗길 1경항2전2항1잠)](http://gall.dcinside.com/board/view/?id=kancolle&no=5689354)
+
+#### 3-6. ![6 해역](https://user-images.githubusercontent.com/20940566/30250066-932a4932-9683-11e7-81b6-a3451b065069.png) - 6 해역
+- [6-1 월간퀘 공략](http://gall.dcinside.com/board/view/?id=kancolle&no=2854533)
+
+* [6-2 공략](http://gall.dcinside.com/board/view/?id=kancolle&no=4738820)
+* [6-2 아카시 파밍](http://gall.dcinside.com/board/view/?id=kancolle&no=2768542)
+
+- [6-3 공략 1](http://gall.dcinside.com/board/view/?id=kancolle&no=2224466) **2015**
+- [6-3 공략 2](http://gall.dcinside.com/board/view/?id=kancolle&no=2940266) **2015**
+- [6-3 코망단 활용편성](http://m.dcinside.com/view.php?id=kancolle&no=5084984) **2016**
+- [6-3 코망단 최단루트](http://gall.dcinside.com/board/view/?id=kancolle&no=5224791) **2016**
+
+* [6-4 공략](http://gall.dcinside.com/board/view/?id=kancolle&no=4213146)
+
+- **EO** : [6-5 공략](http://gall.dcinside.com/board/view/?id=kancolle&no=4907921)
+   - [6-5 함대방공 정보](http://gall.dcinside.com/board/view/?id=kancolle&no=5178795)
+- **EO** : [육공 공격력 & 하야부사 6-5 적용 예](http://gall.dcinside.com/board/view/?id=kancolle&no=5758973)
+
+#### 3-0. 랭작
+- [**랭작 : 전과점수**의 기본 개념](http://gall.dcinside.com/board/view/?id=kancolle&no=3608405)
+- [5-4 윗길 랭작 하는 방법](http://gall.dcinside.com/board/view/?id=kancolle&no=3273048)
+- [5-4 랭작 노하우와 팁](http://gall.dcinside.com/board/view/?id=kancolle&no=3497831)
+
+## 📚 그 외
+1. [칸코레 BGM 목록 (2016.08.12)](http://gall.dcinside.com/board/view/?id=kancolle&no=4557961)
+2. [칸코레 **BGM 플레이어**](http://swaytwig.com/#bgm)
+3. [칸코레 **보이스 플레이어**](http://swaytwig.com/#voice)
+4. [칸코레 계정 일본 옥션 거래 후기 및 팁](http://gall.dcinside.com/board/view/?id=kancolle&no=4493595)
+5. ~~[2016.08 이후로 공지에서 내린 글 목록 (2017.03.01)](http://gall.dcinside.com/board/view/?id=kancolle&no=4459761)~~ 접속 불가

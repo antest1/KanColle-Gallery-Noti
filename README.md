@@ -25,7 +25,7 @@
 - [2017년 업데이트 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=5187386)
   * [17.01.10 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&no=5197373)
   * [17.01.25 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&no=5254797) ([신규퀘/절분퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=5254989))
-  * [17.02.28 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&no=5405901) ([신규퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=5406370)), ([봄퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=5406215))
+  * [17.02.28 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&no=5405901) ([신규퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=5406370)), ~~봄퀘 가이드~~
   * [17.03.17 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&no=5468308) ([신규퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=5468621))
   * [17.04.05 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&no=5536289) ([신규퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=5536501))
   * [17.05.22 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&no=5759324) ([신규퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=5759406))
@@ -84,7 +84,7 @@
 3. [艦これ統計データベース(仮) (개발, 건조 드롭)](http://kancolle-db.net/) - 최신 정보 갱신이 잘 안됨
 
 #### 1-5. ⚙ 기타 편리한 유틸리티/사이트
-1. [진수부 관리 사이트 <My fleet girls> 사용 설명글](http://gall.dcinside.com/board/view/?id=kancolle&no=2963534)
+1. [진수부 관리 사이트 [My fleet girls] 사용 설명글](http://gall.dcinside.com/board/view/?id=kancolle&no=2963534)
 2. [일람 메이커 (편성+장비 스샷을 쉽게 제작)](http://gall.dcinside.com/board/view/?id=kancolle&no=5353536)
 
 ## 2. 🏗 함대 운영
@@ -105,7 +105,7 @@
       - [야간 연격, 컷인 세팅표](http://gall.dcinside.com/board/view/?id=kancolle&no=538385)
    3. [전함의 탄착관측사격 데미지 기대값 비교](http://gall.dcinside.com/board/view/?id=kancolle&no=327377)
    4. [중순양함 장비세팅 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=3568714)
-   5. [대발동정, 정찰기 계열 설명과 착용가능 칸무스들 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=3782769)
+   5. ~~대발동정, 정찰기 계열 설명과 착용가능 칸무스들 정리~~
 
 3. 대공, 함재기, 기지항공대
    1. [**대공**(함대방공, 대공컷인)에 대해서](http://gall.dcinside.com/board/view/?id=kancolle&no=4136381)
@@ -132,8 +132,8 @@
    4. **운작**
       - [마루유 갯수별 운 상승치 기대값 계산](http://gall.dcinside.com/board/view/?id=kancolle&no=4573887)
       - [운작 우선순위, 추천 칸무스](http://gall.dcinside.com/board/view/?id=kancolle&no=5444115)
-   5. [최근 검증 근황을 알기 쉽게 정례회 정리 (16.10.20)](http://gall.dcinside.com/board/view/?id=kancolle&no=4837611)
-   6. [위키아 검증 과정 및 수치보는 법](http://gall.dcinside.com/board/view/?id=kancolle&no=4417918)
+   5. ~~최근 검증 근황을 알기 쉽게 정례회 정리 (16.10.20)~~
+   6. ~~위키아 검증 과정 및 수치보는 법~~
 
 #### 2-2. 🛠 강화 : 개발, 건조, 개수
 1. 개발
@@ -164,7 +164,7 @@
    1. [퀘스트 메뉴 개요](http://gall.dcinside.com/board/view/?id=kancolle&no=86224)
    2. [칸코레 **임무 통합본**](http://gall.dcinside.com/board/view/?id=kancolle&no=6253636)
    3. [신규 기종전환 퀘스트 (월간 포함)](http://gall.dcinside.com/board/view/?id=kancolle&no=2975989)
-   4. [출격퀘 일일,주간,월퀘 한장정리](http://gall.dcinside.com/board/view/?id=kancolle&no=3490662)
+   4. ~~출격퀘 일일,주간,월퀘 한장정리~~
 
 ## 3. ![출격](https://user-images.githubusercontent.com/20940566/30250044-5d9af528-9683-11e7-81e9-91c0d4badef7.png) 출격 (출격 / 레벨링 / 랭작)
 #### 3-0. 전체
@@ -173,7 +173,7 @@
 - [해역별 제공수치 표 (2)](http://gall.dcinside.com/board/view/?id=kancolle&no=2016058)
 - [출격 해역명, 작전명 정리+번역](http://gall.dcinside.com/board/view/?id=kancolle&no=4391761)
 
-* **EO** : [**전체가이드**](http://gall.dcinside.com/board/view/?id=kancolle&no=4518605)
+* **EO** : ~~**전체가이드**~~
 
 #### 3-1. ![1 해역](https://user-images.githubusercontent.com/20940566/30250062-931ce1ac-9683-11e7-873f-56ab68b9e1eb.png) - 1 해역
 - **EO** : [1-5에 대한 고찰](http://gall.dcinside.com/board/view/?id=kancolle&no=4846183)
@@ -190,7 +190,7 @@
 
 #### 3-3. ![3 해역](https://user-images.githubusercontent.com/20940566/30250067-93304580-9683-11e7-9811-d385e5f29539.png) - 3 해역
 * [3-2-1 노로테 레벨링](http://gall.dcinside.com/board/view/?id=kancolle&no=4112470) **2016**
-* [뉴비를 위한 3-2-1 레벨링 공략](http://gall.dcinside.com/board/view/?id=kancolle&no=5271679) **2017**
+* ~~뉴비를 위한 3-2-1 레벨링 공략~~ **2017**
 
 - EO : [3-5 밑길 (1수3경2구)](http://gall.dcinside.com/board/view/?id=kancolle&no=3816775)
 - EO : [3-5 밑길 (하야스이)](http://gall.dcinside.com/board/view/?id=kancolle&no=3172708)
@@ -235,8 +235,8 @@
 
 - [6-3 공략 1](http://gall.dcinside.com/board/view/?id=kancolle&no=2224466) **2015**
 - [6-3 공략 2](http://gall.dcinside.com/board/view/?id=kancolle&no=2940266) **2015**
-- [6-3 코망단 활용편성](http://m.dcinside.com/view.php?id=kancolle&no=5084984) **2016**
-- [6-3 코망단 최단루트](http://gall.dcinside.com/board/view/?id=kancolle&no=5224791) **2016**
+- ~~6-3 코망단 활용편성~~ **2016**
+- ~~6-3 코망단 최단루트~~ **2016**
 
 * [6-4 공략](http://gall.dcinside.com/board/view/?id=kancolle&no=4213146)
 
@@ -250,8 +250,8 @@
 - [5-4 랭작 노하우와 팁](http://gall.dcinside.com/board/view/?id=kancolle&no=3497831)
 
 ## 📚 그 외
-1. [칸코레 BGM 목록 (2016.08.12)](http://gall.dcinside.com/board/view/?id=kancolle&no=4557961)
+1. ~~칸코레 BGM 목록 (2016.08.12)~~
 2. [칸코레 **BGM 플레이어**](http://swaytwig.com/#bgm)
 3. [칸코레 **보이스 플레이어**](http://swaytwig.com/#voice)
 4. [칸코레 계정 일본 옥션 거래 후기 및 팁](http://gall.dcinside.com/board/view/?id=kancolle&no=4493595)
-5. ~~[2016.08 이후로 공지에서 내린 글 목록 (2017.03.01)](http://gall.dcinside.com/board/view/?id=kancolle&no=4459761)~~ 접속 불가
+5. ~~2016.08 이후로 공지에서 내린 글 목록 (2017.03.01)~~

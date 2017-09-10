@@ -32,7 +32,7 @@
 
 ## 🥇 이벤트
 - 드롭 통계
-  * OpenDB (http://swaytwig.com/opendb/)
+  * KanColle OpenDB (http://swaytwig.com/opendb/)
   * poi-statistics (https://db.kcwiki.org/drop/)
   * 艦これ統計データベース(仮) (http://kancolle-db.net/)
 - 지난 이벤트
@@ -55,7 +55,7 @@
 #### 1-2. 🕹 접속기 (뷰어)
 1. **제독 업무도 바빠!** (제독뷰어 // 익스플로러 기반 응용 프로그램)
    1. [제독업무도 바빠! 한글판 통합 안내](https://wolfgangkurz.github.io/KanColleAssets/kcvkr.html)
-   2. [제독업무 데이터베이드 (KanColle OpenDB)](http://swaytwig.com/opendb/)
+   2. [제독업무 데이터베이스 (KanColle OpenDB)](http://swaytwig.com/opendb/)
    3. 문의/건의: [wolfgangkurzdev@gmail.com](mailto:wolfgangkurzdev@gmail.com)
 
 2. **74식 전차관측의** (질싸식, 칠사식 // 익스플로러 기반 응용 프로그램)
@@ -78,7 +78,7 @@
 2. 영문 위키 ([Wikia](http://kancolle.wikia.com/wiki/Kancolle_Wiki))
 
 #### 1-4. 📊 통계 데이터베이스 링크
-1. [OpenDB (개발, 건조, 드롭)](http://swaytwig.com/opendb/)
+1. [KanColle OpenDB (개발, 건조, 드롭)](http://swaytwig.com/opendb/)
 2. [poi-statistics (개발, 드롭)](https://db.kcwiki.org/drop/)
 3. [島風GO！ (건조)](http://unlockacgweb.galstars.net/Kancollewiki/viewCreateShipLogList)
 3. [艦これ統計データベース(仮) (개발, 건조 드롭)](http://kancolle-db.net/) - 최신 정보 갱신이 잘 안됨

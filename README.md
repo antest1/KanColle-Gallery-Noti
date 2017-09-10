@@ -116,6 +116,8 @@
    4. [기지항공대 제공권 계산식 (+정찰기 효과)](http://gall.dcinside.com/board/view/?id=kancolle&no=4631140)
       - [기지항공대용 전투기 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=5671456)
       - [기지항공대 제공치+행동반경 계산기](http://gall.dcinside.com/board/view/?id=kancolle&no=4989097)
+   5. [기지항공대의 공격기 성능 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=6256524)
+   6. [기지항공대의 피격추 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=6256790)
 
 4. 지원함대
    1. [지원함대 개요](http://gall.dcinside.com/board/view/?id=kancolle&no=274163)

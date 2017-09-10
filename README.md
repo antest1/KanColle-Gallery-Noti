@@ -2,12 +2,12 @@
 - [2015년 업데이트 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=3430936)
 - [2016년 업데이트 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=4024549)
 - [2017년 업데이트 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=5187386)
-  * [17.01.10 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&amp;no=5197373)
-  * [17.01.25 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&amp;no=5254797) ([신규퀘/절분퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&amp;no=5254989))
-  * [17.02.28 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&amp;no=5405901) ([신규퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&amp;no=5406370)), ([봄퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&amp;no=5406215))
-  * [17.03.17 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&amp;no=5468308) ([신규퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&amp;no=5468621))
-  * [17.04.05 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&amp;no=5536289) ([신규퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&amp;no=5536501))
-  * [17.05.22 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&amp;no=5759324) ([신규퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&amp;no=5759406))
+  * [17.01.10 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&no=5197373)
+  * [17.01.25 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&no=5254797) ([신규퀘/절분퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=5254989))
+  * [17.02.28 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&no=5405901) ([신규퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=5406370)), ([봄퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=5406215))
+  * [17.03.17 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&no=5468308) ([신규퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=5468621))
+  * [17.04.05 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&no=5536289) ([신규퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=5536501))
+  * [17.05.22 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&no=5759324) ([신규퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=5759406))
 
 ## 🥇 이벤트
 - 드롭 통계
@@ -31,18 +31,18 @@
 2. [**아이폰** 으로 게임하는 방법](http://gall.dcinside.com/board/view/?id=kancolle&no=4887836)
 3. [안드로이드 일반 브라우저용 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=3505365)
 
-#### 1-2. 🛠️ 접속기 (뷰어)
+#### 1-2. 🕹 접속기 (뷰어)
 1. **제독 업무도 바빠!** (제독뷰어 // 익스플로러 기반 응용 프로그램)
    1. [제독업무도 바빠! 한글판 통합 안내](https://wolfgangkurz.github.io/KanColleAssets/kcvkr.html)
    2. [제독업무 데이터베이드 (KanColle OpenDB)](http://swaytwig.com/opendb/)
    3. 문의/건의: [wolfgangkurzdev@gmail.com](mailto:wolfgangkurzdev@gmail.com)
 
 2. **74식 전차관측의** (질싸식, 칠사식 // 익스플로러 기반 응용 프로그램)
-   0. [일어판 제작자 공식 페이지](https://github.com/andanteyk/ElectronicObserver/wiki)
-   1. [일어판 사용법](http://gall.dcinside.com/board/view/?id=kancolle&no=2347362&page=1)
-   2. [일어판 설정법](http://gall.dcinside.com/kancolle/3848628)
-   3. [74식 필터기능 설명](http://gall.dcinside.com/board/view/?id=kancolle&no=2990330)
-   4. [74식과 엑셀로 총 경험치+함종별 경험치 계산하기](http://gall.dcinside.com/board/view/?id=kancolle&no=3404353)
+   1. [일어판 제작자 공식 페이지](https://github.com/andanteyk/ElectronicObserver/wiki)
+   2. [일어판 사용법](http://gall.dcinside.com/board/view/?id=kancolle&no=2347362&page=1)
+   3. [일어판 설정법](http://gall.dcinside.com/kancolle/3848628)
+   4. [74식 필터기능 설명](http://gall.dcinside.com/board/view/?id=kancolle&no=2990330)
+   5. [74식과 엑셀로 총 경험치+함종별 경험치 계산하기](http://gall.dcinside.com/board/view/?id=kancolle&no=3404353)
 
 3. **KC3改** (카이바, 크롬 확장 프로그램)
    1. [KC3의 설치 및 사용방법](http://gall.dcinside.com/board/view/?id=kancolle&no=3441903)
@@ -88,7 +88,7 @@
 
 3. 대공, 함재기, 기지항공대
    1. [**대공**(함대방공, 대공컷인)에 대해서](http://gall.dcinside.com/board/view/?id=kancolle&no=4136381)
-   2. [함재기 배치 개론](http://gall.dcinside.com/board/view/?id=kancolle&no=2581619&page=1&exception_mode=recommend)
+   2. [함재기 배치 개론](http://gall.dcinside.com/board/view/?id=kancolle&no=2581619)
    3. [**항공전 / 기지항공대** (16.08.30)](http://gall.dcinside.com/board/view/?id=kancolle&no=4664392)
    4. [기지항공대 제공권 계산식 (+정찰기 효과)](http://gall.dcinside.com/board/view/?id=kancolle&no=4631140)
       - [기지항공대용 전투기 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=5671456)
@@ -113,3 +113,45 @@
       - [운작 우선순위, 추천 칸무스](http://gall.dcinside.com/board/view/?id=kancolle&no=5444115)
    5. [최근 검증 근황을 알기 쉽게 정례회 정리 (16.10.20)](http://gall.dcinside.com/board/view/?id=kancolle&no=4837611)
    6. [위키아 검증 과정 및 수치보는 법](http://gall.dcinside.com/board/view/?id=kancolle&no=4417918)
+
+#### 2-2. 🛠 강화 : 개발, 건조, 개수
+1. 개발
+   1. [개발에 대해 알아보자](http://gall.dcinside.com/board/view/?id=kancolle&no=78488)
+   2. [뉴비들을 위한 알기 쉬운 개발 레시피](http://gall.dcinside.com/board/view/?id=kancolle&no=2022132)
+   3. [함종별로 직접 계산해본 전탐레시피 확률](http://gall.dcinside.com/board/view/?id=kancolle&no=3610924)
+
+2. 건조
+   1. [대형함 추천 레시피](http://gall.dcinside.com/board/view/?id=kancolle&no=1152236)
+
+3. 근대화개수/개수공창
+   1. [근대화개수 개요](http://gall.dcinside.com/board/view/?id=kancolle&no=76024)
+   2. [개수공창 개요 (16.08.22)](http://gall.dcinside.com/board/view/?id=kancolle&no=4664390)
+   3. [**개수공창 목록**](http://akashi-list.me/)
+   4. [4연장/5연장 어뢰 개수는 어디까지 해야할까?](http://gall.dcinside.com/board/view/?id=kancolle&no=2084589)
+   5. [대 기지형 장비의 개수단계별 화력 변화값](http://m.dcinside.com/view.php?id=kancolle&no=4123961)
+
+#### 2-3. 📓 업무 : 원정, 임무
+1. 원정
+   1. [원정 목록](http://gall.dcinside.com/board/view/?id=kancolle&no=3216451)
+   2. [원정 해금 조건표](http://gall.dcinside.com/board/view/?id=kancolle&no=589313)
+   3. 대발계 장비
+      1. [대발계 장비에 의한 원정 추가자원 공식](http://gall.dcinside.com/board/view/?id=kancolle&no=4857830)
+      2. [대발계 장비에 의한 원정 추가자원 쉽게 계산하기](http://gall.dcinside.com/board/view/?id=kancolle&no=5611120)
+      3. [대발동정 계산기](http://swaytwig.com/#calc)
+
+2. 임무/퀘스트
+   1. [퀘스트 메뉴 개요](http://gall.dcinside.com/board/view/?id=kancolle&no=86224)
+   2. [칸코레 **임무 통합본**](http://gall.dcinside.com/board/view/?id=kancolle&no=6253636)
+   3. [신규 기종전환 퀘스트 (월간 포함)](http://gall.dcinside.com/board/view/?id=kancolle&no=2975989)
+   4. [출격퀘 일일,주간,월퀘 한장정리](http://gall.dcinside.com/board/view/?id=kancolle&no=3490662)
+
+## 3. ⚔ 출격 (출격 / 레벨링 / 랭작)
+#### 전체
+- [1~5해역공략 재탕](http://gall.dcinside.com/board/view/?id=kancolle&no=2324598)
+- [해역별 제공수치 표 (1)](http://gall.dcinside.com/board/view/?id=kancolle&no=478975)
+- [해역별 제공수치 표 (2)](http://gall.dcinside.com/board/view/?id=kancolle&no=2016058)
+- [출격 해역명, 작전명 정리+번역](http://gall.dcinside.com/board/view/?id=kancolle&no=4391761)
+
+* EO : [**전체가이드**](http://gall.dcinside.com/board/view/?id=kancolle&no=4518605)
+
+#### 1 해역

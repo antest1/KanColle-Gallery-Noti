@@ -99,7 +99,7 @@
    2. [**지원함대** (16.08.22)](http://gall.dcinside.com/board/view/?id=kancolle&no=4664389)
    3. [최신 지원함대 정보 (17.04)](http://gall.dcinside.com/board/view/?id=kancolle&no=5575862)
 
-5. 연습전
+5. ![연습](https://user-images.githubusercontent.com/20940566/30250043-55743e0e-9683-11e7-9a8c-fd7431bf7b3b.png) 연습전
    1. [**연습전 경험치 계산법**](http://gall.dcinside.com/board/view/?id=kancolle&no=4803859)
       - [연습전 경험치 계산기](http://swaytwig.com/#calc)
 
@@ -130,7 +130,7 @@
    4. [4연장/5연장 어뢰 개수는 어디까지 해야할까?](http://gall.dcinside.com/board/view/?id=kancolle&no=2084589)
    5. [대 기지형 장비의 개수단계별 화력 변화값](http://m.dcinside.com/view.php?id=kancolle&no=4123961)
 
-#### 2-3. 📓 업무 : 원정, 임무
+#### 2-3. 📓 업무 : ![원정](https://user-images.githubusercontent.com/20940566/30250040-4924bbce-9683-11e7-96ea-5b830fe08392.png) 원정, 임무
 1. 원정
    1. [원정 목록](http://gall.dcinside.com/board/view/?id=kancolle&no=3216451)
    2. [원정 해금 조건표](http://gall.dcinside.com/board/view/?id=kancolle&no=589313)
@@ -145,13 +145,33 @@
    3. [신규 기종전환 퀘스트 (월간 포함)](http://gall.dcinside.com/board/view/?id=kancolle&no=2975989)
    4. [출격퀘 일일,주간,월퀘 한장정리](http://gall.dcinside.com/board/view/?id=kancolle&no=3490662)
 
-## 3. ⚔ 출격 (출격 / 레벨링 / 랭작)
-#### 전체
+## 3. ![출격](https://user-images.githubusercontent.com/20940566/30250044-5d9af528-9683-11e7-81e9-91c0d4badef7.png) 출격 (출격 / 레벨링 / 랭작)
+#### 3-0. 전체
 - [1~5해역공략 재탕](http://gall.dcinside.com/board/view/?id=kancolle&no=2324598)
 - [해역별 제공수치 표 (1)](http://gall.dcinside.com/board/view/?id=kancolle&no=478975)
 - [해역별 제공수치 표 (2)](http://gall.dcinside.com/board/view/?id=kancolle&no=2016058)
 - [출격 해역명, 작전명 정리+번역](http://gall.dcinside.com/board/view/?id=kancolle&no=4391761)
 
-* EO : [**전체가이드**](http://gall.dcinside.com/board/view/?id=kancolle&no=4518605)
+* **EO** : [**전체가이드**](http://gall.dcinside.com/board/view/?id=kancolle&no=4518605)
 
-#### 1 해역
+#### 3-1. ![1 해역](https://user-images.githubusercontent.com/20940566/30250062-931ce1ac-9683-11e7-873f-56ab68b9e1eb.png) 1 해역
+- **EO** : [1-5에 대한 고찰](http://gall.dcinside.com/board/view/?id=kancolle&no=4846183)
+- **EO** : [1-5](http://gall.dcinside.com/board/view/?id=kancolle&no=4843845)
+- **EO** : [1-6](http://gall.dcinside.com/board/view/?id=kancolle&no=4882473)
+
+#### 3-2. ![2 해역](https://user-images.githubusercontent.com/20940566/30250065-932557c4-9683-11e7-82a2-2751c9c32388.png) 2 해역
+* [![잠수함](https://user-images.githubusercontent.com/20940566/30250101-029a18ba-9684-11e7-9d3c-086ba3f16571.png) 오룔링 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=1276513)
+
+- **EO** : [2-5 윗길 아랫길](http://gall.dcinside.com/board/view/?id=kancolle&no=616524) **2014**
+- **EO** : [2-5 (1경모3중항순2구)](http://gall.dcinside.com/board/view/?id=kancolle&no=441379) **2014**
+- **EO** : [2-5 (2경모2중2구)](http://gall.dcinside.com/kancolle/3825804) **2016**
+- **EO** : [2-5 (3경모1경2구)](http://gall.dcinside.com/board/view/?id=kancolle&no=3388800) **2016**
+
+#### 3-3. ![3 해역](https://user-images.githubusercontent.com/20940566/30250067-93304580-9683-11e7-9811-d385e5f29539.png) 3 해역
+
+#### 3-4. ![4 해역](https://user-images.githubusercontent.com/20940566/30250064-93245392-9683-11e7-8d19-bd9c55c9ec18.png) 4 해역
+
+#### 3-5. ![5 해역](https://user-images.githubusercontent.com/20940566/30250063-9320ed10-9683-11e7-8c6e-a02ebf63f0df.png) 5 해역
+
+#### 3-6. ![6 해역](https://user-images.githubusercontent.com/20940566/30250066-932a4932-9683-11e7-81b6-a3451b065069.png) 6 해역
+

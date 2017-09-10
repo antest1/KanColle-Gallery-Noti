@@ -17,7 +17,7 @@
 - 지난 이벤트
   * [보러가기](http://gall.dcinside.com/board/view/?id=kancolle&no=3453597)
 
-## 🔰 1. 입문
+## 1. 🔰 입문
 - [크롬으로 아주쉽게 착임하기](http://gall.dcinside.com/board/view/?id=kancolle&no=4726885)
 - [칸코레 기본 메뉴 설명](http://gall.dcinside.com/board/view/?id=kancolle&no=1009892)
 
@@ -66,7 +66,7 @@
 1. [진수부 관리 사이트 <My fleet girls> 사용 설명글](http://gall.dcinside.com/board/view/?id=kancolle&no=2963534)
 2. [일람 메이커 (편성+장비 스샷을 쉽게 제작)](http://gall.dcinside.com/board/view/?id=kancolle&no=5353536)
 
-## 🏗 2. 함대 운영
+## 2. 🏗 함대 운영
 #### 2-1. 📝 세팅 : 함선, 장비
 - [칸코레 전투 진행 과정 개요](http://gall.dcinside.com/board/view/?id=kancolle&no=705673)
 - [함대 편성 순서 배치에 고려할 점들](http://gall.dcinside.com/board/view/?id=kancolle&no=4136878)

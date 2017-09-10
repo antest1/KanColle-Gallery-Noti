@@ -102,9 +102,9 @@
    1. [장비 세팅 개요](http://gall.dcinside.com/board/view/?id=kancolle&no=2110709)
    2. [주/야간 컷인 세팅 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=1086440)
       - [컷인별 확률표 (17.08.06)](http://gall.dcinside.com/board/view/?id=kancolle&no=6077122)
+      - [야간 컷인 확률표 (17.08.06)](http://gall.dcinside.com/board/view/?id=kancolle&no=6076413)
       - [주간 연격, 컷인 세팅표](http://gall.dcinside.com/board/view/?id=kancolle&no=728168)
       - [야간 연격, 컷인 세팅표](http://gall.dcinside.com/board/view/?id=kancolle&no=538385)
-      - [야간 컷인 확률표 (17.08.06)](http://gall.dcinside.com/board/view/?id=kancolle&no=6076413)
    3. [전함의 탄착관측사격 데미지 기대값 비교](http://gall.dcinside.com/board/view/?id=kancolle&no=327377)
    4. [중순양함 장비세팅 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=3568714)
    5. ~~대발동정, 정찰기 계열 설명과 착용가능 칸무스들 정리~~

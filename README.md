@@ -48,7 +48,7 @@
 
 #### 1-1. 📱 모바일
 1. [**안드로이드** 버전 설치 방법](http://gall.dcinside.com/board/view/?id=kancolle&no=4390032)
-   - [안드로이드 버전 뷰어 (**시제 깡들리티**)](http://gall.dcinside.com/board/view/?id=kancolle&no=5357703)
+   - [안드로이드 버전 뷰어 (**시제 깡들리티**)](https://github.com/antest1/kcanotify/)
 2. [**아이폰** 으로 게임하는 방법](http://gall.dcinside.com/board/view/?id=kancolle&no=4887836)
 3. [안드로이드 일반 브라우저용 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=3505365)
 

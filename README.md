@@ -108,12 +108,13 @@
 - [칸코레 전투 진행 과정 개요](http://gall.dcinside.com/kancolle/705673)
 - [함대 편성 순서 배치에 고려할 점들](http://gall.dcinside.com/kancolle/4136878)
 - [심해 연합함대와의 야전 조건](http://gall.dcinside.com/kancolle/6257804)
+- [주간 포격전의 명중률과 회피율](http://gall.dcinside.com/kancolle/6259835)
 
 1. 함선
    1. [편성, 출격퀘 및 2차 개장을 고려하여 키울만한 칸무스들 정리](http://gall.dcinside.com/kancolle/12978)
    2. [뉴비 제독들을 위한 구축함 성능 리스트](http://gall.dcinside.com/kancolle/4187193)
    3. [2차 개장 칸무스 현황 리스트](http://gall.dcinside.com/kancolle/4296634)
-   4. [**선제 대잠** 가능 레벨 리스트](http://m.dcinside.com/view.php?id=kancolle&no=4371641)
+   4. [**선제 대잠** 가능 레벨 리스트](http://gall.dcinside.com/kancolle/4371641)
 
 2. 장비 세팅
    1. [장비 세팅 개요](http://gall.dcinside.com/kancolle/2110709)
@@ -171,7 +172,7 @@
    2. [개수공창 개요 (16.08.22)](http://gall.dcinside.com/kancolle/4664390)
    3. [**개수공창 목록**](http://akashi-list.me/)
    4. [4연장/5연장 어뢰 개수는 어디까지 해야할까?](http://gall.dcinside.com/kancolle/2084589)
-   5. [대 기지형 장비의 개수단계별 화력 변화값](http://m.dcinside.com/view.php?id=kancolle&no=4123961)
+   5. [대 기지형 장비의 개수단계별 화력 변화값](http://gall.dcinside.com/kancolle/4123961)
 
 #### 2-3. 📓 업무 : ![원정](https://user-images.githubusercontent.com/20940566/30250040-4924bbce-9683-11e7-96ea-5b830fe08392.png) 원정, 임무
 1. 원정

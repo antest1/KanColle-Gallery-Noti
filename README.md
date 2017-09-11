@@ -31,6 +31,8 @@
   * [17.05.22 업데이트](http://gall.dcinside.com/board/view/?id=kancolle&no=5759324) ([신규퀘 가이드](http://gall.dcinside.com/board/view/?id=kancolle&no=5759406))
 
 ## 🥇 이벤트
+### [퇴피는 왼쪽](http://gall.dcinside.com/board/view/?id=kancolle&no=4941142)
+
 - 드롭 통계
   * KanColle OpenDB (http://swaytwig.com/opendb/)
   * poi-statistics (https://db.kcwiki.org/drop/)

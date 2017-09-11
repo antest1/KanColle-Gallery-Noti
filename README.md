@@ -1,6 +1,6 @@
 ## 📃 목차
 - [📦 업데이트 정리](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%A0%95%EB%A6%AC)
-- [🥇 이벤트](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#-%EC%9D%B4%EB%B2%A4%ED%8A%B8)
+- [🥇 이벤트 정보](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#-%EC%9D%B4%EB%B2%A4%ED%8A%B8)
 1. [🔰 입문](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#1--%EC%9E%85%EB%AC%B8)
 2. [🏗 함대 운영](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#2--%ED%95%A8%EB%8C%80-%EC%9A%B4%EC%98%81)
    * 2-1. [📝 세팅 : 함선, 장비](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#2-1--%EC%84%B8%ED%8C%85--%ED%95%A8%EC%84%A0-%EC%9E%A5%EB%B9%84)
@@ -30,16 +30,17 @@
   * [17.04.05 업데이트](http://gall.dcinside.com/kancolle/5536289) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5536501))
   * [17.05.22 업데이트](http://gall.dcinside.com/kancolle/5759324) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5759406))
 
-## 🥇 이벤트
+## 🥇 이벤트 정보
 ### [퇴피는 왼쪽](http://gall.dcinside.com/kancolle/4941142)
 
 - 드롭 통계
   * KanColle OpenDB (http://swaytwig.com/opendb/)
   * poi-statistics (https://db.kcwiki.org/drop/)
   * 艦これ統計データベース(仮) (http://kancolle-db.net/)
-- 2017 여름 「서방 재타통! 유럽 구호 작전」
-  * [공략 통합 게시글](http://gall.dcinside.com/kancolle/6219184)
+- 2017 가을 「」]
+  * 이벤트 준비중
 - 지난 이벤트
+  * [2017 여름 「서방 재타통! 유럽 구호 작전」](http://gall.dcinside.com/kancolle/6219184)
   * [2017 봄 「출격! 북동방면 제5함대」](http://gall.dcinside.com/kancolle/5627971)
   * [2017 겨울 「정찰전력긴급전개! 빛 작전」](http://gall.dcinside.com/kancolle/5296779)
   * [2016 가을 「발령! 함대작전 제3법」](http://gall.dcinside.com/kancolle/4928648)

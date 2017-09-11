@@ -3,18 +3,18 @@
 - [🥇 이벤트](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#-%EC%9D%B4%EB%B2%A4%ED%8A%B8)
 1. [🔰 입문](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#1--%EC%9E%85%EB%AC%B8)
 2. [🏗 함대 운영](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#2--%ED%95%A8%EB%8C%80-%EC%9A%B4%EC%98%81)
-   - 2-1. [📝 세팅 : 함선, 장비](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#2-1--%EC%84%B8%ED%8C%85--%ED%95%A8%EC%84%A0-%EC%9E%A5%EB%B9%84)
-   - 2-2. [🛠 강화 : 개발, 건조, 개수](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#2-2--%EA%B0%95%ED%99%94--%EA%B0%9C%EB%B0%9C-%EA%B1%B4%EC%A1%B0-%EA%B0%9C%EC%88%98)
-   - 2-3. [📓 업무 : 원정, 임무](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#2-3--%EC%97%85%EB%AC%B4---%EC%9B%90%EC%A0%95-%EC%9E%84%EB%AC%B4)
+   * 2-1. [📝 세팅 : 함선, 장비](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#2-1--%EC%84%B8%ED%8C%85--%ED%95%A8%EC%84%A0-%EC%9E%A5%EB%B9%84)
+   * 2-2. [🛠 강화 : 개발, 건조, 개수](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#2-2--%EA%B0%95%ED%99%94--%EA%B0%9C%EB%B0%9C-%EA%B1%B4%EC%A1%B0-%EA%B0%9C%EC%88%98)
+   * 2-3. [📓 업무 : 원정, 임무](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#2-3--%EC%97%85%EB%AC%B4---%EC%9B%90%EC%A0%95-%EC%9E%84%EB%AC%B4)
 3. [⚔ 출격 (출격 / 레벨링 / 랭작)](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3--%EC%B6%9C%EA%B2%A9-%EC%B6%9C%EA%B2%A9--%EB%A0%88%EB%B2%A8%EB%A7%81--%EB%9E%AD%EC%9E%91)
-   - 3-0. [전체](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-0-%EC%A0%84%EC%B2%B4)
-   - 3-1. [1 해역](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-1----1-%ED%95%B4%EC%97%AD)
-   - 3-2. [2 해역](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-2----2-%ED%95%B4%EC%97%AD)
-   - 3-3. [3 해역](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-3----3-%ED%95%B4%EC%97%AD)
-   - 3-4. [4 해역](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-4----4-%ED%95%B4%EC%97%AD)
-   - 3-5. [5 해역](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-5----5-%ED%95%B4%EC%97%AD)
-   - 3-6. [6 해역](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-6----6-%ED%95%B4%EC%97%AD)
-   - 3-0. [랭작](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-0-%EB%9E%AD%EC%9E%91)
+   * 3-0. [전체](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-0-%EC%A0%84%EC%B2%B4)
+   * 3-1. [1 해역](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-1----1-%ED%95%B4%EC%97%AD)
+   * 3-2. [2 해역](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-2----2-%ED%95%B4%EC%97%AD)
+   * 3-3. [3 해역](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-3----3-%ED%95%B4%EC%97%AD)
+   * 3-4. [4 해역](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-4----4-%ED%95%B4%EC%97%AD)
+   * 3-5. [5 해역](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-5----5-%ED%95%B4%EC%97%AD)
+   * 3-6. [6 해역](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-6----6-%ED%95%B4%EC%97%AD)
+   * 3-0. [랭작](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#3-0-%EB%9E%AD%EC%9E%91)
 - [📚 그 외](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#-%EA%B7%B8-%EC%99%B8)
 
 -----------------
@@ -35,6 +35,8 @@
   * KanColle OpenDB (http://swaytwig.com/opendb/)
   * poi-statistics (https://db.kcwiki.org/drop/)
   * 艦これ統計データベース(仮) (http://kancolle-db.net/)
+- 2017 여름 「서방 재타통! 유럽 구호 작전」
+  * [공략 통합 게시글](http://gall.dcinside.com/kancolle/6219184)
 - 지난 이벤트
   * [보러가기](http://gall.dcinside.com/board/view/?id=kancolle&no=3453597)
 
@@ -91,6 +93,7 @@
 #### 2-1. 📝 세팅 : 함선, 장비
 - [칸코레 전투 진행 과정 개요](http://gall.dcinside.com/board/view/?id=kancolle&no=705673)
 - [함대 편성 순서 배치에 고려할 점들](http://gall.dcinside.com/board/view/?id=kancolle&no=4136878)
+- [심해 연합함대와의 야전 조건](http://gall.dcinside.com/board/view/?id=kancolle&no=6257804)
 
 1. 함선
    1. [편성, 출격퀘 및 2차 개장을 고려하여 키울만한 칸무스들 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=12978)
@@ -106,8 +109,9 @@
       - [주간 연격, 컷인 세팅표](http://gall.dcinside.com/board/view/?id=kancolle&no=728168)
       - [야간 연격, 컷인 세팅표](http://gall.dcinside.com/board/view/?id=kancolle&no=538385)
    3. [전함의 탄착관측사격 데미지 기대값 비교](http://gall.dcinside.com/board/view/?id=kancolle&no=327377)
-   4. [중순양함 장비세팅 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=3568714)
-   5. ~~대발동정, 정찰기 계열 설명과 착용가능 칸무스들 정리~~
+   4. [주간전 화력캡 잡담](http://gall.dcinside.com/board/view/?id=kancolle&no=6257500)
+   5. [중순양함 장비세팅 정리](http://gall.dcinside.com/board/view/?id=kancolle&no=3568714)
+   6. ~~대발동정, 정찰기 계열 설명과 착용가능 칸무스들 정리~~
 
 3. 대공, 함재기, 기지항공대
    1. [**대공**(함대방공, 대공컷인)에 대해서](http://gall.dcinside.com/board/view/?id=kancolle&no=4136381)

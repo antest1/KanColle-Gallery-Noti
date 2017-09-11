@@ -38,7 +38,19 @@
 - 2017 여름 「서방 재타통! 유럽 구호 작전」
   * [공략 통합 게시글](http://gall.dcinside.com/kancolle/6219184)
 - 지난 이벤트
-  * [보러가기](http://gall.dcinside.com/board/view/?id=kancolle&no=3453597)
+  * [2014 봄 「색적기, 이함개시!」](http://gall.dcinside.com/board/view/?id=kancolle&no=297595)
+  * [2014 여름 「AL작전/MI작전」](http://gall.dcinside.com/board/view/?id=kancolle&no=665972)
+  * 2014 가을 「발동! 혼작전」 [①](http://gall.dcinside.com/board/view/?id=kancolle&no=1030222), [②](http://gall.dcinside.com/board/view/?id=kancolle&no=1030587)
+  * 2015 겨울 「돌격! 트럭정박지 강습!」 [①](http://gall.dcinside.com/board/view/?id=kancolle&no=1397870), [②](http://gall.dcinside.com/board/view/?id=kancolle&no=1401319), [③](http://gall.dcinside.com/board/view/?id=kancolle&no=1413104)
+  * 2015 봄 「발령! 제 11호 작전」 [①](http://gall.dcinside.com/board/view/?id=kancolle&no=1872737), [②](http://gall.dcinside.com/board/view/?id=kancolle&no=1878797)
+  * [2015 여름 「반격! 제2차 SN작전」](http://gall.dcinside.com/board/view/?id=kancolle&no=2518266)
+  * [2015 가을 「돌입! 해상수송작전」](http://gall.dcinside.com/board/view/?id=kancolle&no=3080414)
+  * [2016 겨울 「출격! 례호 작전」](http://gall.dcinside.com/board/view/?id=kancolle&no=3635602)
+  * [2016 봄 「개설! 기지항공대」](http://gall.dcinside.com/board/view/?id=kancolle&no=4024564)
+  * [2016 여름 「돌격! 제2차 말레이해전」](http://gall.dcinside.com/board/view/?id=kancolle&no=4422328)
+  * [2016 가을 「발령! 함대작전 제3법」](http://gall.dcinside.com/board/view/?id=kancolle&no=4928648)
+  * [2017 겨울 「정찰전력긴급전개! 빛 작전」](http://gall.dcinside.com/board/view/?id=kancolle&no=5296779)
+  * [2017 봄 「출격! 북동방면 제5함대」](http://gall.dcinside.com/board/view/?id=kancolle&no=5627971)
 
 ## 1. 🔰 입문
 - [크롬으로 아주쉽게 착임하기](http://gall.dcinside.com/board/view/?id=kancolle&no=4726885)

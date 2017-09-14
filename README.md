@@ -115,6 +115,7 @@
 - [함대 편성 순서 배치에 고려할 점들](http://gall.dcinside.com/kancolle/4136878)
 - [심해 연합함대와의 야전 조건](http://gall.dcinside.com/kancolle/6257804)
 - [주간 포격전의 명중률과 회피율](http://gall.dcinside.com/kancolle/6259835)
+- [키라/피로도의 설명과 이에 따른 각종 효과](http://gall.dcinside.com/kancolle/6275509)
 
 1. 함선
    1. [편성, 출격퀘 및 2차 개장을 고려하여 키울만한 칸무스들 정리](http://gall.dcinside.com/kancolle/12978)

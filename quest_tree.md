@@ -4,4 +4,4 @@
 -----------------
 
 ## 📆 출격 퀘스트 트리
-![quest_tree_kr.png](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/raw/master/quest_tree_kr.png)
+![quest_tree_kr.png](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/raw/master/Assets/quest_tree_kr.png)

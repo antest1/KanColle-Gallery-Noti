@@ -118,7 +118,7 @@
 - [키라/피로도의 설명과 이에 따른 각종 효과](http://gall.dcinside.com/kancolle/6275509)
 
 1. 함선
-   1. [편성, 출격퀘 및 2차 개장을 고려하여 키울만한 칸무스들 정리](http://gall.dcinside.com/kancolle/12978)
+   1. ~~편성, 출격퀘 및 2차 개장을 고려하여 키울만한 칸무스들 정리~~
    2. [뉴비 제독들을 위한 구축함 성능 리스트](http://gall.dcinside.com/kancolle/4187193)
    3. [2차 개장 칸무스 현황 리스트](http://gall.dcinside.com/kancolle/4296634)
    4. [**선제 대잠** 가능 레벨 리스트](http://gall.dcinside.com/kancolle/4371641)

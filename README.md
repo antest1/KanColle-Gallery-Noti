@@ -32,7 +32,7 @@
   * 17.06.06 업데이트 ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5832507))
   * 17.06.23 업데이트 ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5909797))
   * 17.07.14 업데이트 ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5990992))
-  * 17.07.31 업데이트 - <후미즈키改2>
+  * 17.07.31 업데이트 ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6054449))
   * [17.09.12 업데이트](http://gall.dcinside.com/kancolle/6268323) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6270748)), ([야간전투기 만들기 가이드](http://gall.dcinside.com/kancolle/6269705))
 
 ## 🥇 이벤트 정보
@@ -115,13 +115,14 @@
 - [함대 편성 순서 배치에 고려할 점들](http://gall.dcinside.com/kancolle/4136878)
 - [심해 연합함대와의 야전 조건](http://gall.dcinside.com/kancolle/6257804)
 - [주간 포격전의 명중률과 회피율](http://gall.dcinside.com/kancolle/6259835)
-- [키라/피로도의 설명과 이에 따른 각종 효과](http://gall.dcinside.com/kancolle/6275509)
 
 1. 함선
    1. ~~편성, 출격퀘 및 2차 개장을 고려하여 키울만한 칸무스들 정리~~
    2. [뉴비 제독들을 위한 구축함 성능 리스트](http://gall.dcinside.com/kancolle/4187193)
    3. [2차 개장 칸무스 현황 리스트](http://gall.dcinside.com/kancolle/4296634)
    4. [**선제 대잠** 가능 레벨 리스트](http://gall.dcinside.com/kancolle/4371641)
+   5. [키라/피로도의 설명과 이에 따른 각종 효과](http://gall.dcinside.com/kancolle/6275509)
+   6. [급양함 마미야/이라코의 키라효과](http://gall.dcinside.com/kancolle/6277274)
 
 2. 장비 세팅
    1. [장비 세팅 개요](http://gall.dcinside.com/kancolle/2110709)
@@ -148,6 +149,7 @@
    1. [지원함대 개요](http://gall.dcinside.com/kancolle/274163)
    2. [**지원함대** (16.08.22)](http://gall.dcinside.com/kancolle/4664389)
    3. [최신 지원함대 정보 (17.04)](http://gall.dcinside.com/kancolle/5575862)
+   4. [지원함대에서의 포격화력 일람, 반항전 캡 조정 예](http://gall.dcinside.com/kancolle/6278428)
 
 5. ![연습](https://user-images.githubusercontent.com/20940566/30250043-55743e0e-9683-11e7-9a8c-fd7431bf7b3b.png) 연습전
    1. [**연습전 경험치 계산법**](http://gall.dcinside.com/kancolle/4803859)

@@ -134,6 +134,8 @@
    3. [전함의 탄착관측사격 데미지 기대값 비교](http://gall.dcinside.com/kancolle/327377)
    4. [주간전 화력캡 잡담](http://gall.dcinside.com/kancolle/6257500)
    5. [중순양함 장비세팅 정리](http://gall.dcinside.com/kancolle/3568714)
+   6. [항모 야간 공격력 가설](http://gall.dcinside.com/kancolle/6286683)
+   7. [이와이 폭전 야전기 판정 계산](http://gall.dcinside.com/kancolle/6287477)
 
 3. 대공, 함재기, 기지항공대
    1. [**대공**(함대방공, 대공컷인)에 대해서](http://gall.dcinside.com/kancolle/4136381)

@@ -31,10 +31,10 @@
   * [17.03.17 업데이트](http://gall.dcinside.com/kancolle/5468308) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5468621))
   * [17.04.05 업데이트](http://gall.dcinside.com/kancolle/5536289) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5536501))
   * [17.05.22 업데이트](http://gall.dcinside.com/kancolle/5759324) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5759406))
-  * 17.06.06 업데이트 ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5832507))
-  * 17.06.23 업데이트 ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5909797))
-  * 17.07.14 업데이트 ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5990992))
-  * 17.07.31 업데이트 ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6054449))
+  * [17.06.06 업데이트](http://gall.dcinside.com/kancolle/5828781) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5832507))
+  * [17.06.23 업데이트](http://gall.dcinside.com/kancolle/5908913) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5909797))
+  * [17.07.14 업데이트](http://gall.dcinside.com/kancolle/5990743) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5990992))
+  * [17.07.31 업데이트](http://gall.dcinside.com/kancolle/6054279) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6054449))
   * [17.09.12 업데이트](http://gall.dcinside.com/kancolle/6268323) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6270748)), ([야간전투기 만들기 가이드](http://gall.dcinside.com/kancolle/6269705))
 
 ## 🥇 이벤트 정보
@@ -269,8 +269,7 @@
 
 - [6-3 공략 1](http://gall.dcinside.com/kancolle/2224466) **2015**
 - [6-3 공략 2](http://gall.dcinside.com/kancolle/2940266) **2015**
-- ~~6-3 코망단 활용편성~~ **2016**
-- ~~6-3 코망단 최단루트~~ **2016**
+- [6-3 간증 및 운류 파밍 정보](http://gall.dcinside.com/kancolle/6296858) **2017**
 
 * [6-4 공략](http://gall.dcinside.com/kancolle/4213146)
 

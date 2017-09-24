@@ -87,7 +87,7 @@
    2. [일어판 사용법](http://gall.dcinside.com/kancolle/2347362)
    3. [일어판 설정법](http://gall.dcinside.com/kancolle/3848628)
    4. [74식 필터기능 설명](http://gall.dcinside.com/kancolle/2990330)
-   5. [74식과 엑셀로 총 경험치+함종별 경험치 계산하기](http://gall.dcinside.com/kancolle/3404353)
+   5. [74식과 엑셀로 총 경험치+함종별 경험치 계산하기](http://gall.dcinside.com/kancolle/6316535)
 
 3. **KC3改** (카이바, 크롬 확장 프로그램)
    1. [KC3의 설치 및 사용방법](http://gall.dcinside.com/kancolle/3441903)
@@ -137,7 +137,7 @@
    4. [주간전 화력캡 잡담](http://gall.dcinside.com/kancolle/6257500)
    5. [중순양함 장비세팅 정리](http://gall.dcinside.com/kancolle/3568714)
    6. [항모 야간 공격력 가설](http://gall.dcinside.com/kancolle/6286683)
-   7. [이와이 폭전 야전기 판정 계산](http://gall.dcinside.com/kancolle/6287477)
+   7. [정규/경항모 야전 화력 계산](http://gall.dcinside.com/kancolle/6317284)
 
 3. 대공, 함재기, 기지항공대
    1. [**대공**(함대방공, 대공컷인)에 대해서](http://gall.dcinside.com/kancolle/4136381)
@@ -272,6 +272,7 @@
 - [6-3 간증 및 운류 파밍 정보](http://gall.dcinside.com/kancolle/6296858) **2017**
 
 * [6-4 공략](http://gall.dcinside.com/kancolle/4213146)
+* [6-4 공략 - 기항대 실장 이후 **2017**](http://gall.dcinside.com/kancolle/6322975)
 
 - **EO** : [6-5 공략](http://gall.dcinside.com/kancolle/4907921)
    - [6-5 함대방공 정보](http://gall.dcinside.com/kancolle/5178795)

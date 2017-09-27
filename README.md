@@ -207,7 +207,7 @@
 - [해역별 제공수치 표 (2)](http://gall.dcinside.com/kancolle/2016058)
 - [출격 해역명, 작전명 정리+번역](http://gall.dcinside.com/kancolle/4391761)
 
-* **EO** : ~~**전체가이드**~~
+* **EO** : [**전체가이드**](http://gall.dcinside.com/kancolle/6339079)
 
 #### 3-1. ![1 해역](https://user-images.githubusercontent.com/20940566/30250062-931ce1ac-9683-11e7-873f-56ab68b9e1eb.png) - 1 해역
 - **EO** : [1-5에 대한 고찰](http://gall.dcinside.com/kancolle/4846183)

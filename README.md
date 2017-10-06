@@ -35,7 +35,7 @@
   * [17.06.23 업데이트](http://gall.dcinside.com/kancolle/5908913) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5909797))
   * [17.07.14 업데이트](http://gall.dcinside.com/kancolle/5990743) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5990992))
   * [17.07.31 업데이트](http://gall.dcinside.com/kancolle/6054279) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6054449))
-  * [17.09.12 업데이트](http://gall.dcinside.com/kancolle/6268323) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6270748)), ([야간전투기 만들기 가이드](http://gall.dcinside.com/kancolle/6269705))
+  * [17.09.12 업데이트](http://gall.dcinside.com/kancolle/6268323) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6270748)), ([야간전투기 만들기 가이드](http://gall.dcinside.com/kancolle/6367110))
 
 ## 🥇 이벤트 정보
 ### [퇴피는 왼쪽](http://gall.dcinside.com/kancolle/4941142)
@@ -260,6 +260,7 @@
 - **EO** : [5-5 공략 (중간길 3전3잠)](http://gall.dcinside.com/kancolle/4093828)
 - **EO** : [5-5 공략 (중간길 1항2전3잠)](http://gall.dcinside.com/kancolle/5622908)
 - **EO** : [5-5 공략 (윗길 1경항2전2항1잠)](http://gall.dcinside.com/kancolle/5689354)
+- **EO** : [5-5 공략 (야간발함 2항 1전 3잠) **2017**](http://gall.dcinside.com/kancolle/6352791)
 
 #### 3-6. ![6 해역](https://user-images.githubusercontent.com/20940566/30250066-932a4932-9683-11e7-81b6-a3451b065069.png) - 6 해역
 - [6-1 월간퀘 공략](http://gall.dcinside.com/kancolle/2854533)

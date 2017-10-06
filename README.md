@@ -278,6 +278,7 @@
 - **EO** : [6-5 공략](http://gall.dcinside.com/kancolle/4907921)
    - [6-5 함대방공 정보](http://gall.dcinside.com/kancolle/5178795)
 - **EO** : [육공 공격력 & 하야부사 6-5 적용 예](http://gall.dcinside.com/kancolle/5758973)
+- **EO** : [6-5 공략 (최상급자용)](http://gall.dcinside.com/kancolle/6360379)
 
 #### 3-0. 랭작
 - [**랭작 : 전과점수**의 기본 개념](http://gall.dcinside.com/kancolle/3608405)

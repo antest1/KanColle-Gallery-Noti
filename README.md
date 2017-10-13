@@ -291,7 +291,7 @@
 
 ## 📚 그 외
 1. ~~칸코레 BGM 목록 (2016.08.12)~~
-2. [칸코레 **BGM 플레이어**](http://swaytwig.com/#bgm)
-3. [칸코레 **보이스 플레이어**](http://swaytwig.com/#voice)
+2. [칸코레 **BGM 플레이어**](http://swaytwig.com/bgm.html)
+3. [칸코레 **보이스 플레이어**](http://swaytwig.com/voice.html)
 4. [칸코레 계정 일본 옥션 거래 후기 및 팁](http://gall.dcinside.com/kancolle/4493595)
 5. ~~2016.08 이후로 공지에서 내린 글 목록 (2017.03.01)~~

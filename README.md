@@ -125,6 +125,7 @@
    4. [**선제 대잠** 가능 레벨 리스트](http://gall.dcinside.com/kancolle/4371641)
    5. [키라/피로도의 설명과 이에 따른 각종 효과](http://gall.dcinside.com/kancolle/6275509)
    6. [급양함 마미야/이라코의 키라효과](http://gall.dcinside.com/kancolle/6277274)
+   7. [굉침 스토퍼와 4n, 4n-1](http://gall.dcinside.com/kancolle/6325653)
 
 2. 장비 세팅
    1. [장비 세팅 개요](http://gall.dcinside.com/kancolle/2110709)
@@ -133,11 +134,12 @@
       - [야간 컷인 확률표 (17.08.06)](http://gall.dcinside.com/kancolle/6076413)
       - [주간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/728168)
       - [야간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/538385)
+      - [항공모함 주간 컷인 공격 **2017**](http://gall.dcinside.com/kancolle/6379299)
    3. [전함의 탄착관측사격 데미지 기대값 비교](http://gall.dcinside.com/kancolle/327377)
    4. [주간전 화력캡 잡담](http://gall.dcinside.com/kancolle/6257500)
    5. [중순양함 장비세팅 정리](http://gall.dcinside.com/kancolle/3568714)
-   6. [항모 야간 공격력 가설](http://gall.dcinside.com/kancolle/6286683)
-   7. [정규/경항모 야전 화력 계산](http://gall.dcinside.com/kancolle/6317284)
+   6. [정규/경항모 야전 화력 계산](http://gall.dcinside.com/kancolle/6317284)
+   7. [야전공모의 야전 화력 계산](http://gall.dcinside.com/kancolle/6378909)
 
 3. 대공, 함재기, 기지항공대
    1. [**대공**(함대방공, 대공컷인)에 대해서](http://gall.dcinside.com/kancolle/4136381)
@@ -148,6 +150,7 @@
       - [기지항공대 제공치+행동반경 계산기](http://gall.dcinside.com/kancolle/4989097)
    5. [기지항공대의 공격기 성능 정리](http://gall.dcinside.com/kancolle/6256524)
    6. [기지항공대의 피격추 정리](http://gall.dcinside.com/kancolle/6256790)
+   7. [국지전투기 스펙 정리](http://gall.dcinside.com/kancolle/6163795)
 
 4. 지원함대
    1. [지원함대 개요](http://gall.dcinside.com/kancolle/274163)
@@ -226,6 +229,7 @@
 * [3-2-1 노로테 레벨링](http://gall.dcinside.com/kancolle/4112470) **2016**
 * ~~뉴비를 위한 3-2-1 레벨링 공략~~ **2017**
 
+- EO : [3-5 공략주회 **2017**](http://gall.dcinside.com/kancolle/6359871)
 - EO : [3-5 밑길 (1수3경2구)](http://gall.dcinside.com/kancolle/3816775)
 - EO : [3-5 밑길 (하야스이)](http://gall.dcinside.com/kancolle/3172708)
 - EO : [3-5 윗길 정석 (3잠3항)](http://gall.dcinside.com/kancolle/3275980)

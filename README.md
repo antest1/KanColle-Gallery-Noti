@@ -36,7 +36,7 @@
   * [17.07.14 업데이트](http://gall.dcinside.com/kancolle/5990743) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5990992))
   * [17.07.31 업데이트](http://gall.dcinside.com/kancolle/6054279) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6054449))
   * [17.09.12 업데이트](http://gall.dcinside.com/kancolle/6268323) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6270748)), ([야간전투기 만들기 가이드](http://gall.dcinside.com/kancolle/6367110))
-  * [17.10.18 업데이트](http://gall.dcinside.com/kancolle/6422640)
+  * [17.10.18 업데이트](http://gall.dcinside.com/kancolle/6422640) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6422640))
 
 ## 🥇 이벤트 정보
 ### [퇴피는 왼쪽](http://gall.dcinside.com/kancolle/4941142)
@@ -127,6 +127,7 @@
    5. [키라/피로도의 설명과 이에 따른 각종 효과](http://gall.dcinside.com/kancolle/6275509)
    6. [급양함 마미야/이라코의 키라효과](http://gall.dcinside.com/kancolle/6277274)
    7. [굉침 스토퍼와 4n, 4n-1](http://gall.dcinside.com/kancolle/6325653)
+   8. [해방함의 특성에 대해서](http://gall.dcinside.com/kancolle/6401459)
 
 2. 장비 세팅
    1. [장비 세팅 개요](http://gall.dcinside.com/kancolle/2110709)

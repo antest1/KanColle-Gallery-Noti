@@ -36,6 +36,7 @@
   * [17.07.14 업데이트](http://gall.dcinside.com/kancolle/5990743) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5990992))
   * [17.07.31 업데이트](http://gall.dcinside.com/kancolle/6054279) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6054449))
   * [17.09.12 업데이트](http://gall.dcinside.com/kancolle/6268323) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6270748)), ([야간전투기 만들기 가이드](http://gall.dcinside.com/kancolle/6367110))
+  * [17.10.18 업데이트](http://gall.dcinside.com/kancolle/6422640)
 
 ## 🥇 이벤트 정보
 ### [퇴피는 왼쪽](http://gall.dcinside.com/kancolle/4941142)
@@ -134,7 +135,6 @@
       - [야간 컷인 확률표 (17.08.06)](http://gall.dcinside.com/kancolle/6076413)
       - [주간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/728168)
       - [야간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/538385)
-      - [항공모함 주간 컷인 공격 **2017**](http://gall.dcinside.com/kancolle/6379299)
    3. [전함의 탄착관측사격 데미지 기대값 비교](http://gall.dcinside.com/kancolle/327377)
    4. [주간전 화력캡 잡담](http://gall.dcinside.com/kancolle/6257500)
    5. [중순양함 장비세팅 정리](http://gall.dcinside.com/kancolle/3568714)

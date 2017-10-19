@@ -1,4 +1,4 @@
-![kc20.png](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/raw/master/Assets/kc20.png)
+![kc20.png](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/raw/master/Assets/article.png)
 
 ## 📃 목차
 - [📦 업데이트 정리](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/README.md#-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%A0%95%EB%A6%AC)

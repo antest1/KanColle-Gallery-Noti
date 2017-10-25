@@ -37,7 +37,7 @@
   * [17.07.31 업데이트](http://gall.dcinside.com/kancolle/6054279) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6054449))
   * [17.09.12 업데이트](http://gall.dcinside.com/kancolle/6268323) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6270748)), ([야간전투기 만들기 가이드](http://gall.dcinside.com/kancolle/6367110))
   * [17.10.18 업데이트](http://gall.dcinside.com/kancolle/6421233) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6422640))
-  * [17.10.25 업데이트](http://gall.dcinside.com/kancolle/6447437) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6448190))
+  * [17.10.25 업데이트](http://gall.dcinside.com/kancolle/6447437) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6448404))
 
 ## 🥇 이벤트 정보
 ### [퇴피는 왼쪽](http://gall.dcinside.com/kancolle/4941142)

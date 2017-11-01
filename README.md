@@ -165,11 +165,12 @@
       - [연습전 경험치 계산기](http://swaytwig.com/#calc)
 
 6. 계산과 검증
-   1. [명중(**피트**), 회피, 컷인확률 (16.08.29)](http://gall.dcinside.com/kancolle/4664388)
+   1. [~~명중(**피트**)~~, 회피, 컷인확률 (16.08.29)](http://gall.dcinside.com/kancolle/4664388)
       - [어뢰 컷인 계산기](http://gall.dcinside.com/kancolle/4654754)
-   2. [**데미지** 계산법 (16.09.03)](http://gall.dcinside.com/kancolle/4664391)
-   3. [**색적**, 기타 검증 (16.08.29)](http://gall.dcinside.com/kancolle/4664387)
-   4. **운작**
+   2. [명중(피트) 정리표 (17.11.01)](http://gall.dcinside.com/kancolle/6458403)
+   3. [**데미지** 계산법 (16.09.03)](http://gall.dcinside.com/kancolle/4664391)
+   4. [**색적**, 기타 검증 (16.08.29)](http://gall.dcinside.com/kancolle/4664387)
+   5. **운작**
       - [마루유 갯수별 운 상승치 기대값 계산](http://gall.dcinside.com/kancolle/4573887)
       - [운작 우선순위, 추천 칸무스](http://gall.dcinside.com/kancolle/5444115)
 

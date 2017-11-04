@@ -150,6 +150,7 @@
    4. [기지항공대 제공권 계산식 (+정찰기 효과)](http://gall.dcinside.com/kancolle/4631140)
       - [기지항공대용 전투기 정리](http://gall.dcinside.com/kancolle/5671456)
       - [기지항공대 제공치+행동반경 계산기](http://gall.dcinside.com/kancolle/4989097)
+      - [기지항공대 출격/방공 제공치 조견표](http://gall.dcinside.com/kancolle/6483324)
    5. [기지항공대의 공격기 성능 정리](http://gall.dcinside.com/kancolle/6256524)
    6. [기지항공대의 피격추 정리](http://gall.dcinside.com/kancolle/6256790)
    7. [국지전투기 스펙 정리](http://gall.dcinside.com/kancolle/6163795)

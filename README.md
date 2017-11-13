@@ -154,6 +154,7 @@
    5. [기지항공대의 공격기 성능 정리](http://gall.dcinside.com/kancolle/6256524)
    6. [기지항공대의 피격추 정리](http://gall.dcinside.com/kancolle/6256790)
    7. [국지전투기 스펙 정리](http://gall.dcinside.com/kancolle/6163795)
+   8. [공습시의 각 기지항공대의 상황와 피해의 관계](http://gall.dcinside.com/kancolle/6468543)
 
 4. 지원함대
    1. [지원함대 개요](http://gall.dcinside.com/kancolle/274163)
@@ -170,6 +171,7 @@
       - [어뢰 컷인 계산기](http://gall.dcinside.com/kancolle/4654754)
    2. [명중(피트) 정리표 (17.11.01)](http://gall.dcinside.com/kancolle/6458403)
    3. [**데미지** 계산법 (16.09.03)](http://gall.dcinside.com/kancolle/4664391)
+      - [대잠공격계산의 기본과 계산식 등](http://gall.dcinside.com/kancolle/6509761)
    4. [**색적**, 기타 검증 (16.08.29)](http://gall.dcinside.com/kancolle/4664387)
    5. **운작**
       - [마루유 갯수별 운 상승치 기대값 계산](http://gall.dcinside.com/kancolle/4573887)

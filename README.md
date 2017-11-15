@@ -47,7 +47,7 @@
   * KanColle OpenDB (http://swaytwig.com/opendb/)
   * poi-statistics (https://db.kcwiki.org/drop/)
   * 艦これ統計データベース(仮) (http://kancolle-db.net/)
-- 2017 가을 「」
+- 2017 가을 「첩호결전! 요격, 레이테 해전 (전편)」
   * 이벤트 준비중
 - 지난 이벤트
   * [2017 여름 「서방 재타통! 유럽 구호 작전」](http://gall.dcinside.com/kancolle/6219184)

@@ -44,7 +44,7 @@
 ### [퇴피는 왼쪽](http://gall.dcinside.com/kancolle/4941142)
 
 - 드롭 통계
-  * KanColle OpenDB (http://swaytwig.com/opendb/)
+  * KanColle OpenDB (http://opendb.swaytwig.com/)
   * poi-statistics (https://db.kcwiki.org/drop/)
   * 艦これ統計データベース(仮) (http://kancolle-db.net/)
 - 2017 가을 「첩호결전! 요격, 레이테 해전 (전편)」

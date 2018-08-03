@@ -24,21 +24,18 @@
 ## 📦 업데이트 정리
 - [2015년 업데이트 정리](http://gall.dcinside.com/kancolle/3430936)
 - [2016년 업데이트 정리](http://gall.dcinside.com/kancolle/4024549)
-- [2017년 업데이트 정리](http://gall.dcinside.com/kancolle/5187386)
-  * [17.01.10 업데이트](http://gall.dcinside.com/kancolle/5197373)
-  * [17.01.25 업데이트](http://gall.dcinside.com/kancolle/5254797) ([신규퀘/절분퀘 가이드](http://gall.dcinside.com/kancolle/5254989))
-  * [17.02.28 업데이트](http://gall.dcinside.com/kancolle/5405901) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5406370)), ~~봄퀘 가이드~~
-  * [17.03.17 업데이트](http://gall.dcinside.com/kancolle/5468308) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5468621))
-  * [17.04.05 업데이트](http://gall.dcinside.com/kancolle/5536289) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5536501))
-  * [17.05.22 업데이트](http://gall.dcinside.com/kancolle/5759324) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5759406))
-  * [17.06.06 업데이트](http://gall.dcinside.com/kancolle/5828781) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5832507))
-  * [17.06.23 업데이트](http://gall.dcinside.com/kancolle/5908913) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5909797))
-  * [17.07.14 업데이트](http://gall.dcinside.com/kancolle/5990743) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/5990992))
-  * [17.07.31 업데이트](http://gall.dcinside.com/kancolle/6054279) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6054449))
-  * [17.09.12 업데이트](http://gall.dcinside.com/kancolle/6268323) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6270748)), ([야간전투기 만들기 가이드](http://gall.dcinside.com/kancolle/6367110))
-  * [17.10.18 업데이트](http://gall.dcinside.com/kancolle/6421233) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6422640))
-  * [17.10.25 업데이트](http://gall.dcinside.com/kancolle/6447437) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6448404))
-  * [17.11.10 업데이트](http://gall.dcinside.com/kancolle/6513810)
+- [2017년 업데이트 정리](http://gall.dcinside.com/kancolle/7465161)
+- **2018년 업데이트 정리**
+  * [18.01.10 업데이트](http://gall.dcinside.com/kancolle/6713945) ([신년 임무 가이드](http://gall.dcinside.com/kancolle/6715359))
+  * [18.01.17 업데이트](http://gall.dcinside.com/kancolle/6767715) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6768696))
+  * [18.02.05 업데이트](http://gall.dcinside.com/kancolle/6830642) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6833450))
+  * [18.03.23 업데이트](http://gall.dcinside.com/kancolle/7041949) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/7043420))
+  * [18.04.06 업데이트](http://gall.dcinside.com/kancolle/7093679) ([신규퀘 번역](http://gall.dcinside.com/kancolle/7093596))
+  * [18.04.23 업데이트](http://gall.dcinside.com/kancolle/7146541) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/7147200))
+  * 18.06.13 업데이트 ([신규퀘 가이드](http://gall.dcinside.com/kancolle/7321889))
+  * 18.07.12 업데이트 ([신규퀘 가이드](http://gall.dcinside.com/kancolle/7414764))
+  * [18.08.01 업데이트](http://gall.dcinside.com/kancolle/7471427) ([신규퀘 번역](http://gall.dcinside.com/kancolle/7471579))
+
 
 ## 🥇 이벤트 정보
 ### [퇴피는 왼쪽](http://gall.dcinside.com/kancolle/4941142)
@@ -46,10 +43,12 @@
 - 드롭 통계
   * KanColle OpenDB (http://opendb.swaytwig.com/)
   * poi-statistics (https://db.kcwiki.org/drop/)
-  * 艦これ統計データベース(仮) (http://kancolle-db.net/)
-- 2017 가을 「첩호결전! 요격, 레이테 해전 (전편)」
-  * 이벤트 준비중
+- 2018 늦여름 이벤트 「???」
+  * 8월 말 예정, 조금 큰 중규모
 - 지난 이벤트
+  * 2018 봄 「먹을 것 미니이벤트」 [①](http://gall.dcinside.com/kancolle/7230463), [②](http://gall.dcinside.com/kancolle/7235238), [③](http://gall.dcinside.com/kancolle/7237439)
+  * 2018 겨울 「첩호결전! 요격, 레이테 해전 (후편)」 [①](http://gall.dcinside.com/kancolle/6947645), [②](http://gall.dcinside.com/kancolle/6983426), [③](http://gall.dcinside.com/kancolle/6933050)
+  * [2017 가을 「첩호결전! 요격, 레이테 해전 (전편)」](http://gall.dcinside.com/kancolle/6620131)
   * [2017 여름 「서방 재타통! 유럽 구호 작전」](http://gall.dcinside.com/kancolle/6219184)
   * [2017 봄 「출격! 북동방면 제5함대」](http://gall.dcinside.com/kancolle/5627971)
   * [2017 겨울 「정찰전력긴급전개! 빛 작전」](http://gall.dcinside.com/kancolle/5296779)
@@ -76,6 +75,7 @@
 #### 1-1. 📱 모바일
 1. [**안드로이드** 버전 설치 방법](http://gall.dcinside.com/kancolle/4390032)
    - [안드로이드 버전 뷰어 (**시제 깡들리티**)](https://github.com/antest1/kcanotify/)
+   - 문의/건의: [kcanotify@gmail.com](mailto:kcanotify@gmail.com)
 2. [**아이폰** 으로 게임하는 방법](http://gall.dcinside.com/kancolle/4887836)
 3. [안드로이드 일반 브라우저용 가이드](http://gall.dcinside.com/kancolle/3505365)
 
@@ -91,7 +91,8 @@
    3. [일어판 설정법](http://gall.dcinside.com/kancolle/3848628)
    4. [74식 필터기능 설명](http://gall.dcinside.com/kancolle/2990330)
    5. [74식과 엑셀로 총 경험치+함종별 경험치 계산하기](http://gall.dcinside.com/kancolle/6316535)
-
+   6. [**74식 한글판 배포 사이트**](http://thelokis.egloos.com/)
+   
 3. **KC3改** (카이바, 크롬 확장 프로그램)
    1. [KC3의 설치 및 사용방법](http://gall.dcinside.com/kancolle/3441903)
    2. [KC3 전략실의 기능 설명](http://gall.dcinside.com/kancolle/4181894)
@@ -102,13 +103,13 @@
 
 #### 1-3. 🔗 위키 링크
 1. 일본 위키 ([WikiWiki](http://wikiwiki.jp/kancolle/))
-2. 영문 위키 ([Wikia](http://kancolle.wikia.com/wiki/Kancolle_Wiki))
+2. 영문 위키 ([Wikia](http://kancolle.wikia.com/wiki/Kancolle_Wiki) / [KancolleWiki](http://en.kancollewiki.net/wiki/Kancolle_Wiki))
+3. 중문 위키 ([舰娘百科](https://zh.kcwiki.org/wiki/))
 
 #### 1-4. 📊 통계 데이터베이스 링크
 1. [KanColle OpenDB (개발, 건조, 드롭)](http://opendb.swaytwig.com/)
 2. [poi-statistics (개발, 드롭)](https://db.kcwiki.org/drop/)
 3. [島風GO！ (건조)](http://unlockacgweb.galstars.net/Kancollewiki/viewCreateShipLogList)
-3. [艦これ統計データベース(仮) (개발, 건조 드롭)](http://kancolle-db.net/) - 최신 정보 갱신이 잘 안됨
 
 #### 1-5. ⚙ 기타 편리한 유틸리티/사이트
 1. [진수부 관리 사이트 [My fleet girls] 사용 설명글](http://gall.dcinside.com/kancolle/2963534)
@@ -209,6 +210,8 @@
    2. [칸코레 **임무 통합본**](http://gall.dcinside.com/kancolle/6253636)
    3. [신규 기종전환 퀘스트 (월간 포함)](http://gall.dcinside.com/kancolle/2975989)
    4. [출격퀘 일일,주간,월퀘 한장정리](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/quest_tree.md)
+   5. [칸코레 임무 정리 사이트 (일문)](https://ooyodo-quest.net/)
+   6. [칸코레 임무 트리 (영문)](https://www.kahr-noss.com/OoyodoQuestTracker.html)
 
 ## 3. ![출격](https://user-images.githubusercontent.com/20940566/30250044-5d9af528-9683-11e7-81e9-91c0d4badef7.png) 출격 (출격 / 레벨링 / 랭작)
 #### 3-0. 전체
@@ -295,6 +298,7 @@
 - [**랭작 : 전과점수**의 기본 개념](http://gall.dcinside.com/kancolle/3608405)
 - [5-4 윗길 랭작 하는 방법](http://gall.dcinside.com/kancolle/3273048)
 - [5-4 랭작 노하우와 팁](http://gall.dcinside.com/kancolle/3497831)
+- [전과기지 (서버별 전과 추이 등)](https://senka.com.ru/)
 
 ## 📚 그 외
 1. ~~칸코레 BGM 목록 (2016.08.12)~~

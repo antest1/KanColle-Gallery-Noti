@@ -26,7 +26,7 @@
 - [2016년 업데이트 정리](http://gall.dcinside.com/kancolle/4024549)
 - [2017년 업데이트 정리](http://gall.dcinside.com/kancolle/7465161)
 - **2018년 업데이트 정리**
-  * [18.01.10 업데이트](http://gall.dcinside.com/kancolle/6713945) ([신년 임무 가이드](http://gall.dcinside.com/kancolle/6715359))
+  * [18.01.01 업데이트](http://gall.dcinside.com/kancolle/6713945) ([신년 임무 가이드](http://gall.dcinside.com/kancolle/6715359))
   * [18.01.17 업데이트](http://gall.dcinside.com/kancolle/6767715) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6768696))
   * [18.02.05 업데이트](http://gall.dcinside.com/kancolle/6830642) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/6833450))
   * [18.03.23 업데이트](http://gall.dcinside.com/kancolle/7041949) ([신규퀘 가이드](http://gall.dcinside.com/kancolle/7043420))
@@ -45,6 +45,7 @@
   - **대파 진격 시 다메콘 장착 여부 확인**
   - [**출격이 안되는 경우 확인해봐야 하는 것들**](http://gall.dcinside.com/kancolle/6856985)
     - 모항 여유 5칸 및 장비보관함 여유 20칸 이상 여부 확인
+
 #### 드롭 통계
   - KanColle OpenDB (http://opendb.swaytwig.com/)
   - poi-statistics (https://db.kcwiki.org/drop/)
@@ -165,9 +166,10 @@
    1. [**대공**(함대방공, 대공컷인)에 대해서](http://gall.dcinside.com/kancolle/4136381)
    2. [비율격추, 고정격추](http://gall.dcinside.com/kancolle/7080307)
    3. [대공병장의 개수효과: 가중대공치 및 함대방공보너스](http://gall.dcinside.com/kancolle/7081704)
-   4. [함재기 배치 개론](http://gall.dcinside.com/kancolle/2581619)
-   5. [함상공격기, 함상폭격기 성능표](http://gall.dcinside.com/kancolle/6884383)
-   6. [**항공전 / 기지항공대 개괄** (16.08.30)](http://gall.dcinside.com/kancolle/4664392)
+   4. [대공컷인 종류별 발동조건 및 보너스 (18.03.26)](http://gall.dcinside.com/kancolle/7052785)
+   5. [함재기 배치 개론](http://gall.dcinside.com/kancolle/2581619)
+   6. [함상공격기, 함상폭격기 성능표](http://gall.dcinside.com/kancolle/6884383)
+   7. [**항공전 / 기지항공대 개괄** (16.08.30)](http://gall.dcinside.com/kancolle/4664392)
 
 4. 기지항공대
    1. [기지항공대 소개 (18.02.12)](http://gall.dcinside.com/kancolle/6854289)
@@ -176,10 +178,11 @@
 	  - [기지항공대용 전투기 스펙 정리 (18.02.28)](http://gall.dcinside.com/kancolle/6936222)
       - [기지항공대 제공치+행동반경 계산기](http://gall.dcinside.com/kancolle/4989097)
       - [기지항공대 출격/방공 제공치 조견표 (18.02.28)](http://gall.dcinside.com/kancolle/6936293)
-   3. [기지항공대의 공격기 성능 정리](http://gall.dcinside.com/kancolle/6256524)
-   4. [기지항공대의 피격추 정리](http://gall.dcinside.com/kancolle/6256790)
-   5. [국지전투기 스펙 정리](http://gall.dcinside.com/kancolle/6163795)
-   6. [공습시의 각 기지항공대의 상황와 피해의 관계](http://gall.dcinside.com/kancolle/6468543)
+   3. [기지항공대 출격/배치 소비 자원 조견표 (17.12.14)](http://gall.dcinside.com/kancolle/6655815)
+   4. [기지항공대의 공격기 성능 정리](http://gall.dcinside.com/kancolle/6256524)
+   5. [기지항공대의 피격추 정리](http://gall.dcinside.com/kancolle/6256790)
+   6. [국지전투기 스펙 정리](http://gall.dcinside.com/kancolle/6163795)
+   7. [공습시의 각 기지항공대의 상황와 피해의 관계](http://gall.dcinside.com/kancolle/6468543)
 
 5. 지원함대
    1. [(구) 지원함대 개요](http://gall.dcinside.com/kancolle/274163)

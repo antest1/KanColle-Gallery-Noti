@@ -7,6 +7,22 @@
 <body>
 
 <div>
+	<select id="year">
+		<option value="2015">2015</option>
+		<option value="2016">2016</option>
+		<option value="2017">2017</option>
+		<option value="2018">2018</option>
+		<option value="2019">2019</option>
+		<option value="2020">2020</option>
+		<option value="2021">2021</option>
+		<option value="2022">2022</option>
+		<option value="2023">2023</option>
+		<option value="2024">2024</option>
+		<option value="2025">2025</option>
+	</select>
+	year
+</div>
+<div>
 	<input type="checkbox" id="pre_event"> On event at 01/01 ?
 </div>
 <div>
@@ -78,6 +94,9 @@ textarea {
 	text-align: center;
 	overflow: hidden;
 }
+#output > div > div.disabled,
+.desc > div > div.disabled { background-color: #787878 }
+
 #output > div > div.active,
 .desc > div > div.active { background-color: #53d053 }
 
@@ -101,6 +120,8 @@ document.querySelector("button#update").onclick = function(){
 };
 
 var update = function(){
+	var year = parseInt(document.querySelector("#year").value);
+
 	var tables = {};
 	var content = document.querySelector("#content").value.split("\n")
 	for(var i=0; i<content.length; i++){
@@ -132,6 +153,8 @@ var update = function(){
 		cell.innerHTML = (i+1);
 		row.appendChild( cell );
 
+		var eom = new Date(year,(i+1),0).getDate();
+
 		for(var j=0; j<31; j++){
 			var m = ("00"+(i+1)).substr(-2);
 			var d = ("00"+(j+1)).substr(-2);
@@ -141,6 +164,8 @@ var update = function(){
 
 			if( flag=="event" ) ev = true;
 			else if( flag=="eventend" ) ev = false;
+
+			if( j+1>eom ) flag = "disabled";
 
 			var cell = document.createElement("div");
 			if(flag) cell.className = flag;

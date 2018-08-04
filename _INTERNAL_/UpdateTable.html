@@ -1,0 +1,156 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Table Builder</title>
+</head>
+<body>
+
+<div>
+	<input type="checkbox" id="pre_event"> On event at 01/01 ?
+</div>
+<div>
+	<textarea id="content">0925 active
+1030 active
+1118 event
+1208 eventend
+1224 active
+1229 active</textarea>
+</div>
+<div>
+	<button id="update">update</button>
+</div>
+
+<div id="box">
+	<div id="output"></div>
+	<div class="desc">
+		<div>
+			<div class="active"></div> update
+		</div>
+		<div>
+			<div class="event"></div> event start
+		</div>
+		<div>
+			<div class="eventend"></div> event end
+		</div>
+		<div>
+			<div class="ev"></div> on event
+		</div>
+	</div>
+</div>
+
+<style type="text/css">
+* {
+	font-size: 9px;
+}
+textarea {
+	width: 100%;
+	min-height: 200px;
+	font-size: 11px;
+}
+#box {
+	border: 1px solid #d9d9d9;
+	padding: 10px;
+}
+.desc {
+	margin-top: 5px;
+	padding-left: 12px;
+}
+.desc::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+.desc > div {
+	float: left;
+	display: inline-block;
+	margin: 2px;
+	width: 80px;
+}
+#output > div > div,
+.desc > div > div {
+	display: inline-block;
+	margin: 2px;
+	width: 10px;
+	height: 10px;
+	background-color: #efefef;
+	vertical-align: middle;
+	text-align: center;
+	overflow: hidden;
+}
+#output > div > div.active,
+.desc > div > div.active { background-color: #53d053 }
+
+#output > div > div.event,
+.desc > div > div.event { background-color: #c833c8 }
+
+#output > div > div.eventend,
+.desc > div > div.eventend { background-color: #983398 }
+
+#output > div > div.ev,
+.desc > div > div.ev{ background-color: #e8d3e8 }
+
+#output > div:first-of-type > div,
+#output > div > div:first-of-type { background-color: #fff }
+</style>
+<script type="text/javascript">
+var p = document.querySelector("div#output");
+
+document.querySelector("button#update").onclick = function(){
+	update();
+};
+
+var update = function(){
+	var tables = {};
+	var content = document.querySelector("#content").value.split("\n")
+	for(var i=0; i<content.length; i++){
+		if( content[i].length==0 ) continue;
+
+		var part = content[i].split(" ");
+		if(part.length<2) continue;
+		if(part[0].length!=4) continue;
+		if(!/^[0-9]+$/.test(part[0])) continue;
+
+		tables[part[0]] = part[1];
+	}
+	p.innerHTML = "";
+
+	var row = document.createElement("div");
+	row.appendChild( document.createElement("div") );
+	for(var i=0; i<31; i++){
+		var cell = document.createElement("div");
+		cell.innerHTML = (i+1);
+		row.appendChild( cell );
+	}
+	p.appendChild(row);
+
+	var ev = document.querySelector("#pre_event").checked;
+	for(var i=0; i<12; i++){
+		var row = document.createElement("div");
+
+		var cell = document.createElement("div");
+		cell.innerHTML = (i+1);
+		row.appendChild( cell );
+
+		for(var j=0; j<31; j++){
+			var m = ("00"+(i+1)).substr(-2);
+			var d = ("00"+(j+1)).substr(-2);
+
+			var flag = false;
+			if(tables[m+d]) flag = tables[m+d];
+
+			if( flag=="event" ) ev = true;
+			else if( flag=="eventend" ) ev = false;
+
+			var cell = document.createElement("div");
+			if(flag) cell.className = flag;
+			else if(ev) cell.className = "ev";
+			row.appendChild(cell);
+		}
+		p.appendChild(row);
+	}
+};
+update();
+</script>
+</body>
+</html>
